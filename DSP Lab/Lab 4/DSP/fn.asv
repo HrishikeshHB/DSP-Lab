@@ -1,0 +1,11 @@
+function x=fn(A)
+s=0;
+d=size(A);
+p = 1;
+for i=1:length(d)
+    
+for i=1:x
+    s=s+A(i);
+end
+    x=s;
+end
